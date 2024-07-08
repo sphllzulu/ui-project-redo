@@ -2,9 +2,6 @@ import './Mainleft.css'
 import { GoArrowUpRight } from "react-icons/go";
 
 
-
-
-
 const Mainleft = () => {
   return (
     <div className='container-left'>
